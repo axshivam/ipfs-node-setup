@@ -1,0 +1,5 @@
+Start IPFS with Docker Compose ==> docker-compose up -d
+
+Verify the IPFS Node ==> docker ps 
+
+Access the IPFS Web Interface ==> http://localhost:5001/webui
